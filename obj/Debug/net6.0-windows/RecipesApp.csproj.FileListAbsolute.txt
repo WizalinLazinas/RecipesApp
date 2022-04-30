@@ -1,0 +1,5 @@
+C:\Users\terma\Documents\GitHub\mine\RecipesApp\obj\Debug\net6.0-windows\RecipesApp.csproj.AssemblyReference.cache
+C:\Users\terma\Documents\GitHub\mine\RecipesApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\terma\Documents\GitHub\mine\RecipesApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\terma\Documents\GitHub\mine\RecipesApp\obj\Debug\net6.0-windows\RecipesApp_MarkupCompile.cache
+C:\Users\terma\Documents\GitHub\mine\RecipesApp\obj\Debug\net6.0-windows\RecipesApp_MarkupCompile.lref
