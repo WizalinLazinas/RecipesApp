@@ -6,13 +6,11 @@ using System.Threading.Tasks;
 
 namespace RecipesApp
 {
-    public record Recipe
+    public record Step
     {
+        public int Count { get; set; }
         public string? Name { get; set; }
-        public List<Ingredient>? Ingredients { get; set; }
-        public DateTime CookingTime { get; set; }
-        public double Price { get; set; }
         public string? Description { get; set; }
-        public List<Step>? Instruction  { get; set; }
+        public string? Image { get; set; }
     }
 }
